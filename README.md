@@ -1,0 +1,1 @@
+This was a demo website I created for a presentation on website basics at my universities Hackathon! I went over basics on how websites work, how to create and customize your own site, and how to deploy it to the web!
